@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/truongduy" target="blank"><img src="https://img.shields.io/twitter/follow/truongduy?logo=twitter&style=for-the-badge" alt="truongduy" /></a> </p>
 
-- 🔭 I’m currently working on [University of Technology Infomation](https://www.uit.edu.vn/)
+- 🔭 I’m currently working on [University of Infomation Technology](https://www.uit.edu.vn/)
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision and Web Development**
 
